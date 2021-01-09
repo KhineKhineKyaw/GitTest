@@ -2,6 +2,9 @@ Hello !!
 
 I would like to introduce about recipes menu.
 
+Step -1 
+Food Menu
+
 Chicken curry
 Noodle
 Fried Chicken
@@ -9,9 +12,12 @@ Fried Chicken
 
 That's all!!
 
+Step -2
 Drink menu
+
 Cola
 Apple Juice
+Orange Juice
 
 
 Thanks!
